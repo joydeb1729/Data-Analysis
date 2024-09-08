@@ -18,3 +18,20 @@
 
 5. **Region-wise Sales Analysis:**
    - Calculate the total sales amount by `Region` and visualize it using a horizontal bar chart.
+
+
+## Dataset
+
+Ensure that you have a dataset containing at least the following columns:
+- `Item`: Name or identifier of the product.
+- `Sale_amt`: Sales amount of the product.
+- `OrderDate`: Date when the order was placed.
+- `Unit_price`: Price per unit of the product.
+- `Units`: Number of units sold.
+- `Region`: Region where the sale took place (if applicable).
+
+## Instructions
+
+- Use Python and relevant libraries such as `pandas`, `matplotlib`, and `seaborn` to perform data analysis and visualization.
+- Ensure that all visualizations are clear, well-labeled, and properly formatted.
+- Provide code and explanations in a Jupyter notebook or Python script.
